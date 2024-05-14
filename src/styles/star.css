@@ -17,7 +17,11 @@
   transform: scale(1.1);
 }
 
+<<<<<<< HEAD
 .star.active > svg {
+=======
+.star input:checked ~ svg {
+>>>>>>> 4260dda7b27845548092ddf2a2ad691bfa227229
   fill: #86f54e;
   color: #86f54e;
 }
